@@ -63,7 +63,7 @@ const CW = {
           <p>We build websites, portals & apps that help businesses grow online. Just starting up — and ready to craft your digital presence.</p>
           <div class="footer-socials">
             <a href="https://www.instagram.com/CRAFTED_WEBWORKS/" target="_blank" rel="noopener" class="soc-btn" title="Instagram">📸</a>
-            <a href="https://wa.me/919876543210?text=Hi%2C%20I%27d%20like%20to%20discuss%20a%20web%20project!" target="_blank" rel="noopener" class="soc-btn" title="WhatsApp">💬</a>
+            <a href="https://wa.me/918977655682?text=Hi%2C%20I%27d%20like%20to%20discuss%20a%20web%20project!" target="_blank" rel="noopener" class="soc-btn" title="WhatsApp">💬</a>
           </div>
         </div>
         <div class="footer-col">
@@ -84,7 +84,7 @@ const CW = {
           <h4>Contact</h4>
           <ul>
             <li><a href="mailto:craftedwebworks@gmail.com">craftedwebworks@gmail.com</a></li>
-            <li><a href="https://wa.me/919876543210" target="_blank">+91 98765 43210</a></li>
+            <li><a href="https://wa.me/918977655682" target="_blank">+91 89776 55682</a></li>
             <li><a href="https://www.instagram.com/CRAFTED_WEBWORKS/" target="_blank">@CRAFTED_WEBWORKS</a></li>
           </ul>
         </div>
@@ -97,7 +97,7 @@ const CW = {
 
     <!-- Floating Buttons -->
     <div class="float-actions">
-      <a href="https://wa.me/919876543210?text=Hi%2C%20I%27d%20like%20to%20discuss%20a%20web%20project!" target="_blank" rel="noopener" class="float-btn fb-wa" aria-label="WhatsApp">
+      <a href="https://wa.me/918977655682?text=Hi%2C%20I%27d%20like%20to%20discuss%20a%20web%20project!" target="_blank" rel="noopener" class="float-btn fb-wa" aria-label="WhatsApp">
         <span class="float-tip">Chat on WhatsApp</span>💬
       </a>
       <a href="https://www.instagram.com/CRAFTED WEBWORKS/" target="_blank" rel="noopener" class="float-btn fb-ig" aria-label="Instagram">
