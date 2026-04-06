@@ -34,7 +34,6 @@ const CW = {
         ${CW.logo(70)}
         <div>
           <div class="logo-text">Crafted <span>Webworks</span></div>
-          <span class="logo-sub">Web Design & Dev</span>
         </div>
       </a>
       <div class="nav-links">
@@ -59,7 +58,6 @@ const CW = {
             ${CW.logo(34)}
             <div style="margin-left:10px;">
               <div class="logo-text" style="color:#fff;">Crafted <span>Webworks</span></div>
-              <span class="logo-sub">Web Design & Dev</span>
             </div>
           </a>
           <p>We build websites, portals & apps that help businesses grow online. Just starting up — and ready to craft your digital presence.</p>
@@ -77,12 +75,15 @@ const CW = {
             <li><a href="${p}pages/portfolio.html">Portfolio</a></li>
             <li><a href="${p}pages/pricing.html">Pricing</a></li>
             <li><a href="${p}pages/contact.html">Contact</a></li>
+            <li><a href="${p}pages/privacypolicy.html">Privacy Policy</a></li>
+            <li><a href="${p}pages/termsandconditions.html">Terms & Conditions</a></li>
+
           </ul>
         </div>
         <div class="footer-col">
           <h4>Contact</h4>
           <ul>
-            <li><a href="mailto:hello@craftedwebworks.in">hello@craftedwebworks.in</a></li>
+            <li><a href="mailto:craftedwebworks@gmail.com">craftedwebworks@gmail.com</a></li>
             <li><a href="https://wa.me/919876543210" target="_blank">+91 98765 43210</a></li>
             <li><a href="https://www.instagram.com/CRAFTED_WEBWORKS/" target="_blank">@CRAFTED_WEBWORKS</a></li>
           </ul>
@@ -90,7 +91,7 @@ const CW = {
       </div>
       <div class="footer-bottom hidden">
         <p>© ${new Date().getFullYear()} <span>CRAFTED WEBWORKS</span>. All rights reserved.</p>
-        <p style="font-size:.78rem;color:#475569;">Built with ❤️ in Bengaluru</p>
+        <p style="font-size:.78rem;color:#475569;">Built with ❤️</p>
       </div>
     </footer>
 
